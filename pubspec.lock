@@ -2,12 +2,12 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   ar_flutter_plugin:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: ar_flutter_plugin
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.6.2"
+    version: "0.6.4"
   async:
     dependency: transitive
     description:
@@ -169,7 +169,7 @@ packages:
       name: json_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.4.0"
+    version: "4.6.0"
   lints:
     dependency: transitive
     description:

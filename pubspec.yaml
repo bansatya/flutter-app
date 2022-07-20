@@ -12,12 +12,13 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts:
-  ar_flutter_plugin: ^0.6.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  ar_flutter_plugin: ^0.6.2
   flutter_lints: ^1.0.0
+
 
 flutter:
 
